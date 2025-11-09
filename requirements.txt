@@ -1,0 +1,4 @@
+asyncio
+bittensor
+bittensor-wallet
+python-dotenv
